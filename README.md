@@ -86,6 +86,11 @@ https://github.com/user-attachments/assets/7e004ecd-3364-460f-81a2-71c9764a257d
 - **Press Button 3** → Reverse rotation  
 - **Press Button 4** → Reset  
 
+## 🦸‍♂️ Contributors
+- Hassan Badawy
+- Anas Mohamed
+- Ziad Osama
+- Ward Salkini
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Arduino-Syringe-Pump/blob/d157131107d740b656c6f51316fde9a07803735c/LICENSE) file for details
 
