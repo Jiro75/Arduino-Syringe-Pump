@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/7e004ecd-3364-460f-81a2-71c9764a257d
 - **Press Button 4** → Reset  
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Smart-Plant-Watering-System/blob/777d1f8fa679388e99889a2b2e7f6aed2b5d5e70/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Arduino-Syringe-Pump/blob/d157131107d740b656c6f51316fde9a07803735c/LICENSE) file for details
 
 ## 📫 Contact
 https://www.linkedin.com/in/mostafahany4705
