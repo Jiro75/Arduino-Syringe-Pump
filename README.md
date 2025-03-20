@@ -92,7 +92,7 @@ https://github.com/user-attachments/assets/7e004ecd-3364-460f-81a2-71c9764a257d
 - Ziad Osama
 - Ward Salkini
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Arduino-Syringe-Pump/blob/d157131107d740b656c6f51316fde9a07803735c/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Arduino-Syringe-Pump/blob/d157131107d740b656c6f51316fde9a07803735c/LICENSE) file for details.
 
 ## 📫 Contact
 Email: Mostafahany4705@gmail.com <br>
