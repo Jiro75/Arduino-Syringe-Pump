@@ -1,6 +1,6 @@
-# 🚑 Arduino Infusion Pump  
+# 💉 Arduino Syringe Pump  
 
-An open-source Arduino-based infusion pump for precise fluid delivery, integrating a **stepper motor**, **LCD display**, and **flow sensor**. Designed for biomedical applications, research, and educational purposes.  
+An open-source Arduino-based syringe pump for precise fluid delivery, integrating a **stepper motor**, **LCD display**, and **flow sensor**. Designed for biomedical applications, research, and educational purposes.  
 
 ---
 
